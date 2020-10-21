@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911836999474",
+    "firebase_url": "https://quizmind-36d31.firebaseio.com",
+    "project_id": "quizmind-36d31",
+    "storage_bucket": "quizmind-36d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911836999474:android:50b07f9b7db2239218b12b",
+        "android_client_info": {
+          "package_name": "com.example.quizmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911836999474-tbq502sr0ktoc0pvf6lam93ok1r02bb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55L2fz_wPMkTD8boxh3Jf3o3anr8CiC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911836999474-tbq502sr0ktoc0pvf6lam93ok1r02bb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
